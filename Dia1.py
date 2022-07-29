@@ -9,4 +9,4 @@ radio=float(input('Introduce el valor del radio:'))
 #2.Usamos la formula para hallar el valor del área. la formula es pi*radio**2
 area=pi*(radio**2)
 #Mostramos por pantalla el valor del área
-print(area)
+print('El valor del area es:',area)
